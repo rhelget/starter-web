@@ -16,4 +16,4 @@ This is a simple web project, deployement can be on any web server or even local
 
 ### Copyright
 
-2020 Git.Training
+2020 Git.Training -->2
