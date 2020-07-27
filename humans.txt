@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Randy H  rh@king.com
 
 # THANKS
 
